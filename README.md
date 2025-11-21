@@ -1,7 +1,7 @@
 ﻿# CSY4132 - Ciberseguridad | Duoc UC
 
-**Profesor:** Nicolás Sánchez  
-**Semestre:** 2025  
+**Profesor:** Nicolás Sánchez R. 
+**Semestre:** 2025-2 
 
 Bienvenido al repositorio oficial de la asignatura **CSY4132**. Aquí encontrarás los recursos, laboratorios y archivos necesarios para las evaluaciones sumativas del curso.
 
@@ -22,4 +22,4 @@ Para trabajar con los materiales de este curso, necesitarás:
 Todo el código y desarrollo subido por los estudiantes debe ser original. El plagio o copia en las evaluaciones será sancionado según el reglamento académico de Duoc UC.
 
 ---
-*Repositorio administrado por el docente Nicolás Sánchez.*
+*Repositorio administrado por el docente Nicolás Sánchez R.*
